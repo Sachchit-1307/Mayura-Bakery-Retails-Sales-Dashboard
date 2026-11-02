@@ -1,0 +1,4 @@
+﻿sale_id,sale_date,product_id,product_name,category,quantity,unit_price,total_amount
+S00001,2026-11-02,MB002,Egg Puff,Snacks & Puffs,1,30.0,30.0
+S00002,2026-11-02,MB009,Masala Bun,Buns,5,25.0,125.0
+S00003,2026-11-02,MB005,Samosa,Snacks & Puffs,20,20.0,400.0

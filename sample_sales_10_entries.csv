@@ -1,0 +1,11 @@
+sale_id,date,product_id,product_name,category,quantity,unit_price,total
+S001,2026-11-02,P001,Chocolate Muffin,Cakes,2,45.0,90.0
+S002,2026-11-02,P002,Butter Croissant,Pastries,1,60.0,60.0
+S003,2026-11-02,P003,Vanilla Cupcake,Cakes,4,35.0,140.0
+S004,2026-11-02,P004,Veg Puff,Savories,3,25.0,75.0
+S005,2026-11-02,P005,Chocolate Brownie,Desserts,2,55.0,110.0
+S006,2026-11-02,P006,Plain Bread,Breads,1,40.0,40.0
+S007,2026-11-02,P007,Jam Bun,Buns,5,20.0,100.0
+S008,2026-11-02,P008,Pineapple Pastry,Pastries,2,70.0,140.0
+S009,2026-11-02,P009,Cheese Sandwich,Snacks,1,85.0,85.0
+S010,2026-11-02,P010,Butter Cookies,Cookies,3,30.0,90.0

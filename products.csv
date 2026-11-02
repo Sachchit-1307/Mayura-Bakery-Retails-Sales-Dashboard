@@ -1,0 +1,51 @@
+﻿product_id,product_name,category,price,stock,low_stock_threshold,active
+MB001,Veg Puff,Snacks & Puffs,25.0,40,10,True
+MB002,Egg Puff,Snacks & Puffs,30.0,24,8,True
+MB003,Chicken Puff,Snacks & Puffs,35.0,20,5,True
+MB004,Paneer Puff,Snacks & Puffs,35.0,15,5,True
+MB005,Samosa,Snacks & Puffs,20.0,10,8,True
+MB006,Veg Roll,Snacks & Puffs,35.0,18,5,True
+MB007,Bread Roll,Snacks & Puffs,30.0,15,5,True
+MB008,Aloo Bun,Buns,20.0,25,8,True
+MB009,Masala Bun,Buns,25.0,15,6,True
+MB010,Cream Bun,Buns,25.0,18,5,True
+MB011,Jam Bun,Buns,20.0,20,5,True
+MB012,Dilpasand,Buns & Sweet Bakes,30.0,15,5,True
+MB013,Milk Bread,Breads,50.0,20,5,True
+MB014,Brown Bread,Breads,55.0,12,4,True
+MB015,Wheat Bread,Breads,55.0,10,3,True
+MB016,Sandwich Bread,Breads,50.0,12,4,True
+MB017,Burger Bun (pack),Breads,35.0,10,3,True
+MB018,Pav (pack),Breads,30.0,12,4,True
+MB019,Garlic Bread,Breads,60.0,8,2,True
+MB020,Bread Toast,Toast & Rusk,35.0,15,4,True
+MB021,Milk Rusk (pack),Toast & Rusk,50.0,12,3,True
+MB022,Sweet Rusk (pack),Toast & Rusk,60.0,10,3,True
+MB023,Plain Cake (250 g),Cakes,80.0,8,2,True
+MB024,Plum Cake (250 g),Cakes,150.0,6,2,True
+MB025,Honey Cake (piece),Cakes,25.0,20,5,True
+MB026,Banana Cake (piece),Cakes,25.0,15,4,True
+MB027,Black Forest Pastry,Cakes & Pastries,70.0,10,3,True
+MB029,Chocolate Truffle Pastry,Cakes & Pastries,80.0,8,2,True
+MB030,Butterscotch Pastry,Cakes & Pastries,70.0,8,2,True
+MB031,Vanilla Cupcake,Cakes & Pastries,25.0,12,3,True
+MB032,Chocolate Donut,Donuts,35.0,10,3,True
+MB033,Sugar Donut,Donuts,30.0,10,3,True
+MB034,Chocolate Brownie,Brownies,60.0,8,2,True
+MB035,Black Forest Cake (500 g),Celebration Cakes,450.0,3,1,True
+MB036,Butterscotch Cake (500 g),Celebration Cakes,450.0,3,1,True
+MB037,Chocolate Cake (500 g),Celebration Cakes,500.0,4,1,True
+MB038,Butter Biscuits (200 g),Biscuits & Cookies,120.0,15,4,True
+MB039,Coconut Biscuits (200 g),Biscuits & Cookies,120.0,12,3,True
+MB040,Salt Biscuits (200 g),Biscuits & Cookies,100.0,12,3,True
+MB041,Ragi Cookies (200 g),Biscuits & Cookies,120.0,8,2,True
+MB042,Choco Chip Cookies (200 g),Biscuits & Cookies,150.0,10,3,True
+MB043,Khara Biscuits (200 g),Biscuits & Cookies,100.0,12,3,True
+MB044,Nippat (200 g),Savouries,100.0,10,3,True
+MB045,Kodubale (200 g),Savouries,100.0,10,3,True
+MB046,Mixture (200 g),Savouries,90.0,12,3,True
+MB047,Banana Chips (200 g),Savouries,120.0,8,2,True
+MB048,Chocolate Muffin,Muffins,40.0,10,3,True
+MB049,Cold Coffee (200 ml),Beverages,60.0,12,3,True
+MB050,Packaged Water (1 L),Beverages,15.0,24,6,True
+MB051,Pizza,Snacks & Puffs,70.0,10,3,True
